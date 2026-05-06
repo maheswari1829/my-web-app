@@ -15,7 +15,8 @@
 
     <h2 style="color:#facc15; font-size:30px;">
         Deployment Server: Apache Tomcat
-            artifact:nexus
+         pipeline : github-->jenkins-->buildartifact-->nexus-->deployment    artifact:nexus
+        
                
     </h2>
 
@@ -28,7 +29,7 @@
     </h3>
 
     <h3 style="color:#a3e635; font-size:22px;">
-        Version: v1.0
+        Version: v1.2
     </h3>
 
 </body>
