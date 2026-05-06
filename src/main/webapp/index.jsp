@@ -6,7 +6,7 @@
 <body style="background-color:#0f172a; color:white; text-align:center; font-family:Arial;">
 
     <h1 style="color:#22c55e; font-size:45px;">
-         APPLICATION DEPLOYED SUCCESSFULLY.
+         THROUGH JENKINS APPLICATION DEPLOYED SUCCESSFULLY IN TOMCAT AND ARTIFACT STORED IN INEXUS
     </h1>
 
     <h2 style="color:#38bdf8; font-size:30px;">
@@ -15,6 +15,7 @@
 
     <h2 style="color:#facc15; font-size:30px;">
         Deployment Server: Apache Tomcat
+                Artifact: Nexus
     </h2>
 
     <h3 style="color:#e879f9; font-size:25px;">
