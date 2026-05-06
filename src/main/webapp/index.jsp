@@ -29,7 +29,7 @@
     </h3>
 
     <h3 style="color:#a3e635; font-size:22px;">
-        Version: v1.1
+        Version: v1.2
     </h3>
 
 </body>
