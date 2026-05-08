@@ -26,6 +26,7 @@ pipeline : github-->jenkins-->buildartifact-->nexus-->deployment    artifact:nex
         Build Status: SUCCESS 
     we have applied automation using triggers in jenkins builds 
 we hvae done all integrations to jenkins 
+done with jenkins/tomcat/nexus 
     </h3>
 
     <h3 style="color:#f87171; font-size:22px;">
