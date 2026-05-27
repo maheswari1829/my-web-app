@@ -24,9 +24,7 @@ pipeline : github-->jenkins-->buildartifact-->nexus-->deployment    artifact:nex
 
     <h3 style="color:#e879f9; font-size:25px;">
         Build Status: SUCCESS 
-    we have applied automation using triggers in jenkins builds 
-we hvae done all integrations to jenkins 
-done with jenkins/tomcat/nexus 
+   we have done amini-project
     </h3>
 
     <h3 style="color:#f87171; font-size:22px;">
