@@ -17,6 +17,8 @@
 
     <h2 style="color:#facc15; font-size:30px;">
         Deployment Server: Apache Tomcat
+        ARTIFACT UPLOADER :NEXUS
+
         
 pipeline : github-->jenkins-->buildartifact-->nexus-->deployment    artifact:nexus
 
