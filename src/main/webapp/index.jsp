@@ -6,18 +6,15 @@
 <body style="background-color:#0f172a; color:white; text-align:center; font-family:Arial;">
 
     <h1 style="color:#22c55e; font-size:45px;">
-         THROUGH JENKINS APPLICATION DEPLOYED SUCCESSFULLY IN TOMCAT 
           applied webhook through triggers concept 
     </h1>
 
     <h2 style="color:#38bdf8; font-size:30px;">
-        added code to nexus repository 
-
+       
     </h2>
 
     <h2 style="color:#facc15; font-size:30px;">
-        Deployment Server: Apache Tomcat
-        ARTIFACT UPLOADER :NEXUS
+       
 
         
 pipeline : github-->jenkins-->buildartifact-->nexus-->deployment    artifact:nexus
