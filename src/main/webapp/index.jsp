@@ -14,10 +14,10 @@
     </h2>
 
     <h2 style="color:#facc15; font-size:30px;">
-       
+    application sucessfully deployed using tomcat    
 
         
-pipeline : github-->jenkins-->buildartifact-->nexus-->deployment    artifact:nexus
+
 
         
                
