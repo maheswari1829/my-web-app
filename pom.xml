@@ -5,8 +5,8 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.example</groupId>
-    <artifactId>tomcat-webapp</artifactId>
+    <groupId>devops</groupId>
+    <artifactId>cloud</artifactId>
     <version>1.7</version>
     <packaging>war</packaging>
 
