@@ -6,7 +6,7 @@
 <body style="background-color:#0f172a; color:white; text-align:center; font-family:Arial;">
 
     <h1 style="color:#22c55e; font-size:45px;">
-         hello devops 
+         we have succesffly deployed to tomcat 
     </h1>
 
     <h2 style="color:#38bdf8; font-size:30px;">
