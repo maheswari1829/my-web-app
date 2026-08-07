@@ -6,11 +6,11 @@
 <body style="background-color:#0f172a; color:white; text-align:center; font-family:Arial;">
 
     <h1 style="color:#22c55e; font-size:45px;">
- 
+ i have added my automaTION TO POLLSCM
     </h1>
 
     <h2 style="color:#38bdf8; font-size:30px;">
-  you project got sucessfully deployed in tomcat 
+      you project got sucessfully deployed in tomcat 
     </h2>
 
     <h2 style="color:#facc15; font-size:30px;">
