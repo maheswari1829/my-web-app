@@ -19,7 +19,7 @@
 
     <h3 style="color:#e879f9; font-size:25px;">
         Build Status: SUCCESS 
-    added webhooks to jenkins dashboard now
+    added webhooks to jenkins dashboard now and configured
   
     </h3>
 
