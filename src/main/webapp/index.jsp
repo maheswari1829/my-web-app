@@ -14,17 +14,12 @@
     </h2>
 
     <h2 style="color:#facc15; font-size:30px;">
-  
-
-        
-
-
-        
-               
+            
     </h2>
 
     <h3 style="color:#e879f9; font-size:25px;">
         Build Status: SUCCESS 
+    added webhooks to jenkins dashboard
   
     </h3>
 
