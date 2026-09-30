@@ -28,7 +28,8 @@
     </h3>
 
     <h3 style="color:#a3e635; font-size:22px;">
-        Version: v1.2
+        Version: v4.2
+i have added automation through webhook
     </h3>
 
 </body>
