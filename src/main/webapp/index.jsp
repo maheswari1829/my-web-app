@@ -6,7 +6,7 @@
 <body style="background-color:#0f172a; color:white; text-align:center; font-family:Arial;">
 
     <h1 style="color:#22c55e; font-size:45px;">
- i have added my automaTION TO POLLSCM
+         i have added my automaTION TO POLLSCM
     </h1>
 
     <h2 style="color:#38bdf8; font-size:30px;">
@@ -24,12 +24,12 @@
     </h3>
 
     <h3 style="color:#f87171; font-size:22px;">
-        Deployment Time: <%= new java.util.Date() %>
+       
     </h3>
 
     <h3 style="color:#a3e635; font-size:22px;">
-        Version: v4.2
-i have added automation through webhook
+      
+
     </h3>
 
 </body>
